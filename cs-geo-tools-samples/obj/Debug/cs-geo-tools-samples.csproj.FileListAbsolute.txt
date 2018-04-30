@@ -1,0 +1,8 @@
+C:\Users\chen0\git-cs\cs-geo-tools\cs-geo-tools-samples\bin\Debug\cs-geo-tools-samples.exe
+C:\Users\chen0\git-cs\cs-geo-tools\cs-geo-tools-samples\bin\Debug\cs-geo-tools-samples.pdb
+C:\Users\chen0\git-cs\cs-geo-tools\cs-geo-tools-samples\bin\Debug\cs-geo-tools.dll
+C:\Users\chen0\git-cs\cs-geo-tools\cs-geo-tools-samples\bin\Debug\cs-geo-tools.pdb
+C:\Users\chen0\git-cs\cs-geo-tools\cs-geo-tools-samples\obj\Debug\cs-geo-tools-samples.csprojResolveAssemblyReference.cache
+C:\Users\chen0\git-cs\cs-geo-tools\cs-geo-tools-samples\obj\Debug\cs-geo-tools-samples.exe
+C:\Users\chen0\git-cs\cs-geo-tools\cs-geo-tools-samples\obj\Debug\cs-geo-tools-samples.pdb
+C:\Users\chen0\git-cs\cs-geo-tools\cs-geo-tools-samples\bin\Debug\cs-geo-tools-samples.exe.config

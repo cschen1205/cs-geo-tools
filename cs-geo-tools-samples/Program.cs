@@ -1,17 +1,4 @@
-# cs-geo-tools
-
-.NET toolkit that provides the utility functions for performing various tasks such as geocoding, reverse coding, country code translation, geo distance calculation, etc.
-
-# Install
-
-```bash
-Install-Package cs-geo-tools
-```
-
-# Usage
-
-```cs 
-using System;
+﻿using System;
 namespace GeoTools
 {
     class Program
@@ -31,4 +18,3 @@ namespace GeoTools
         }
     }
 }
-```

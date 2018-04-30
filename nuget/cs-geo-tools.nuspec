@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>cs-nlp-geo-tools</id>
+    <version>1.0.1</version>
+    <authors>cschen1205</authors>
+    <owners>cschen1205</owners>
+    <licenseUrl>https://github.com/cschen1205/cs-nlp-geo-tools/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/cschen1205/cs-nlp-geo-tools</projectUrl>
+    <iconUrl>https://rawgit.com/cschen1205/cs-nlp-geo-tools/master/icon.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.NET toolkit that provides the utility functions for performing various tasks such as geocoding, reverse coding, country code translation, geo distance calculation, etc.</description>
+    <releaseNotes>.NET toolkit that provides the utility functions for performing various tasks such as geocoding, reverse coding, country code translation, geo distance calculation, etc.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>geocoding, reverse-geocoding, country-code, geo-distance, c-sharp</tags>
+    <dependencies>
+      
+    </dependencies>
+  </metadata>
+</package>
